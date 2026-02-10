@@ -1,29 +1,51 @@
 [
   {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
+    "role": "Full Stack Engineer",
+    "organisation": "Creative Bits AI",
+    "startDate": "Oct 2025",
     "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
-  },
-  {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
-  },
-  {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Engineered AI-driven workflow automations using n8n and RAG pipelines to reduce manual client tasks.",
+      "Architected scalable full-stack features and standardized API contracts to improve cross-team velocity.",
+      "Enforced code quality and peer review practices to accelerate deployments and reduce production bugs.",
+      "Implemented localization logic for US formats and locale-specific languages for enterprise clients."
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/creative-bits-ai.svg"
+  },
+  {
+    "role": "Full Stack Developer",
+    "organisation": "SmartSpot Solutions (StockPoint POS)",
+    "startDate": "May 2024",
+    "endDate": "Sep 2025",
+    "experiences": [
+      "Built a high-availability microservices backend with Spring Boot and PostgreSQL on GCP (99.9% uptime).",
+      "Shipped a mobile-first Flutter + Bloc frontend with rate limiting and payload compression.",
+      "Expanded the user base by 60%+ via RBAC and internationalization (i18n).",
+      "Integrated JaCoCo to reach 80%+ test coverage and prevent regressions.",
+      "Led Karria App logistics platform delivery with AWS, OAuth2/JWT security, CI/CD, and Paystack wallets."
+    ],
+    "imageSrc": "history/smartspot.svg"
+  },
+  {
+    "role": "Software Developer",
+    "organisation": "BitBridge",
+    "startDate": "Oct 2023",
+    "endDate": "Apr 2024",
+    "experiences": [
+      "Designed and developed the company’s primary web platform with a responsive, high-performance UI.",
+      "Led community technical initiatives centered on blockchain technology and decentralized systems."
+    ],
+    "imageSrc": "history/bitbridge.svg"
+  },
+  {
+    "role": "Software Developer Intern",
+    "organisation": "Numerical Machining Complex Ltd.",
+    "startDate": "May 2023",
+    "endDate": "Aug 2023",
+    "experiences": [
+      "Built a Leave Management System in Python/Django, reducing processing time by 80%.",
+      "Created custom internal tools aligned with HR requirements and existing workflows."
+    ],
+    "imageSrc": "history/nmc.svg"
   }
 ]
